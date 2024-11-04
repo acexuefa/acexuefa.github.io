@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://acexuefa.github.io/DmF/sitemap_index.txt
+Sitemap: https://acexuefa.github.io/Xkt/sitemap_index.txt
+Sitemap: https://acexuefa.github.io/qQN/sitemap_index.txt
+Sitemap: https://acexuefa.github.io/yHF/sitemap_index.txt
